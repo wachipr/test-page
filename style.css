@@ -7,7 +7,13 @@
     box-sizing: border-box;
 }
 
+body {
+  background: pink;
+}
+
+
 :root {
+   
     /* Color Palette - ปรับตามธีมโปรเจกต์ */
     --primary-color: #007bff;
     --secondary-color: #6c757d;
